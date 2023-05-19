@@ -75,7 +75,7 @@ func TestDisplayItemsInvalid(t *testing.T) {
 	}
 }
 
-func TestProcessInputTabularMethod(t *testing.T) {
+func TestSelectInputTabularMethod(t *testing.T) {
 	cases := []struct {
 		name        string
 		changeState bool
